@@ -1,0 +1,36 @@
+.non {
+    background-color: #35435d;
+    overflow: auto;
+    padding: 4px;
+    border-radius: 20px;
+}
+
+.non li {
+    float: left;
+    list-style: none;
+    font-size: 25px;
+
+
+}
+
+.non li a {
+    text-decoration: none;
+    color: white;
+    padding: 5px 18px;
+}
+
+.search {
+    float: right;
+    color: white;
+    padding: 0px 53px;
+    margin-top: 7px;
+    width: 150px;
+}
+
+.non input {
+    border: 2px solid rgb(6, 89, 92);
+    border-radius: 4px;
+    padding: 0px 10px;
+    width: 150px;
+
+}

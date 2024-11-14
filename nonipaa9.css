@@ -1,0 +1,32 @@
+body{
+    background-color: black;
+}
+#class{
+    color: rgb(255, 255, 255);
+background-color: beige;
+display: inline-block;
+height: 120px;
+width: 120px;
+margin: 40px;
+transition-property:background-color;
+transition-duration: 1s;
+align-items: center;
+justify-content: center;
+border: 2px solid brown;
+border-radius: 10px;
+}
+#class:hover{
+    background-color: brown;
+    height: 400px;
+    width: 400px;
+    border: 3px solid white;
+}
+
+
+
+
+
+
+
+
+

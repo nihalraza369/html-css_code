@@ -1,0 +1,51 @@
+le>
+        body{
+            background-color: #c1ac83;
+        }
+        img {
+            margin: -12px;
+            width: 150px;
+        }
+
+        h3 {
+            font-family: "Russo One", sans-serif;
+            margin: 5px;
+            color: #e0e5ba;
+            font-size: 30px;
+        }
+
+        .scare box {
+            border: 4px solid black;
+            background-color: grey;
+            margin: 4px 0px;
+            padding: 23px;
+            width: 33%;
+            box-sizing: border-box;
+            display: inline-block;
+        }
+           /*{
+            width: 400px;
+            font-size: 20px;
+            box-sizing: border-box;
+            width: 30%;
+            display: block;
+        }*/ 
+
+        .noni {
+            background-color: rgb(66, 90, 103);
+            border: 3px solid rgb(9, 8, 64);
+            margin-bottom: 15px;
+        }
+
+        .paa {
+            background-color: rgb(66, 90, 103);
+            border: 3px solid rgb(9, 8, 64);
+            margin-bottom: 15px;
+            display:block;
+        }
+
+        .huzi {
+            background-color: rgb(66, 90, 103);
+            border: 3px solid rgb(9, 8, 64);
+            margin-bottom: 15px;
+        }

@@ -1,0 +1,47 @@
+.container {
+    color: rgb(120, 120, 161);
+    background-color: rgb(106, 188, 188);
+    width: 700px;
+    margin: 33px auto;
+    border: 5px solid rgb(10, 85, 131);
+    font-family: "Ubuntu", sans-serif;
+}
+
+#nihal {
+    border: 2px solid rgb(71, 124, 150);
+    float: left;
+    width: 48%;
+    margin: 5px;
+}
+
+#huzaifa {
+    border: 2px solid rgb(71, 124, 150);
+    float: left;
+    width: 48%;
+    margin: 5px;
+    height: 312px;
+}
+
+#husna {
+    clear: left;
+    border: 4px solid rgb(71, 124, 150);
+    margin: 10px;
+
+}
+
+#bilal {
+    clear: left;
+    border: 4px solid rgb(71, 124, 150);
+    margin: 10px;
+}
+
+p,
+hi {
+    text-align: center;
+}
+
+#non {
+    color: rgb(31, 31, 122);
+    margin: auto;
+    width: 300px;
+}

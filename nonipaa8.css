@@ -1,0 +1,39 @@
+.box{
+    background-color: bisque;
+height: 160px;
+}
+#osman{
+background-color: brown;
+border: 2px solid blue;
+display: inline-block;
+position: relative;
+height: 140px;
+margin: 2px;
+/*animation-name: nihal1;*/
+animation-name: nihal2;
+animation-duration: 6s;
+animation-iteration-count: 1;
+animation-fill-mode:alternate;
+animation-timing-function: ease-in-out;
+animation-direction: reverse;
+}
+@keyframes nihal2{
+    0%{
+top: 250px;
+left: 250px;}
+30%
+{
+top: 250px;
+left:250px ;
+
+}
+
+/*
+    @keyframes n
+        from{
+width: 100px;
+        }
+        to{
+width: 1300px;
+        }
+    }*/

@@ -1,0 +1,21 @@
+input{
+    display: block;
+    padding: 7px;
+    border: 2px solid rgb(9, 65,102)l
+    margin:13px 11px -6px 14px;
+    text-align: center;
+}
+.container{
+margin: auto;
+width: 223px;
+}
+a[target]{
+    color: rgb(21, 115, 186);
+    text-decoration: none;
+}
+li{
+    font-size: 20px;
+}
+li:nth-child(3n+3){
+    color: blue;
+}
