@@ -1,0 +1,35 @@
+.title {
+      font-size: 24px;
+      margin: 20px 0 10px;
+    }
+
+    .box {
+      background-color: #4caf50;
+      color: white;
+      padding: 10px;
+      margin: 5px;
+      border-radius: 5px;
+    }
+
+    .block-example .box {
+     display: block;
+    }
+
+    .inline-example .box {
+      display: block;
+      display:inline;
+    }
+
+     .inline-block-example .box {
+      display: inline-block;
+    }
+
+    .flex-example {
+      display: flex;
+    }
+
+      .grid-example {
+      display: grid;
+      grid-template-columns: repeat(3, 1fr);
+      gap: 10px;
+    }
